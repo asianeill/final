@@ -4,9 +4,9 @@
 
 In this visual novel/game, you play a rookie detective. It's your first case. You and your partner, Detective Beaver, must explore the headquarters of megacorporation Coca-Koala. While interviewing the four suspects, you start to sense that something more is going on in Coca-Koala... perhaps, it's not just a drink company.
 
-Link to video:
+Link to video: 
 
-Link to game: http://127.0.0.1:8042/index.html
+Link to game: https://tun53946.itch.io/detective-beaver
 
 Final project for CIS 1051.
 
@@ -74,7 +74,7 @@ if combination_check == "wrong":
 
 Here, if the reset button is clicked, the layers are hidden and it jumps back a scene. The tutorial's reset button didn't work how I wanted it to.
 
-imagebutton auto "images/dial-reset-button-%s.png" align(0.5, 0.5) focus_mask True action [Hide(screen=None, transition=dissolve, _layer=None), Jump("reset")] at half_size 
+        imagebutton auto "images/dial-reset-button-%s.png" align(0.5, 0.5) focus_mask True action [Hide(screen=None, transition=dissolve, _layer=None), Jump("reset")] at half_size 
 
 I also ran into an issue where the puzzle pieces were locking into incorrect places. However, I fixed this by playing around with the coordinates in the list.
 
