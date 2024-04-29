@@ -4,11 +4,14 @@
 
 In this visual novel/game, you play a rookie detective. It's your first case. You and your partner, Detective Beaver, must explore the headquarters of megacorporation Coca-Koala. While interviewing the four suspects, you start to sense that something more is going on in Coca-Koala... perhaps, it's not just a drink company.
 
-Link to video: 
+## Final project for CIS 1051
+
+Please view script.rpy under the detectivebeaver folder to view code.
+
+Link to video: https://youtu.be/II7OukGL6JA?si=lc9c_pc1XCvF_geg
 
 Link to game: https://tun53946.itch.io/detective-beaver
 
-Final project for CIS 1051.
 
 ## Details
 There are a few clues you can choose to pick up along the way.
